@@ -1,0 +1,16 @@
+body {
+  background-color: paleturquoise;
+}
+h1 {color: white;
+}
+h3{color: white;
+}
+hr {
+   border-style: none;
+   border-top-style: dotted;
+   border-color: grey;
+   border-width: 5px;
+   width: 5%;
+ }
+   img {
+     height: 175px;}
